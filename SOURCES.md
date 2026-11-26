@@ -189,3 +189,6 @@ These are links only. Nothing from them is copied.
 - DNA (Q7): Pearson Edexcel GCSE Drama "DNA Prescribed Text Guide", https://qualifications.pearson.com/content/dam/pdf/GCSE/Drama/2016/teaching-and-learning-materials/GCSE_Drama_Set_Text_Guide_DNA%20V2.pdf
 - Lord of the Flies (Q13): Faber abridged educational notes (Loxford School English Department), https://www.faber.co.uk/wp-content/uploads/2024/04/Lord-of-the-Flies-Abridged-Education-Edition-Study-Guide-1.pdf
 - Quotation caveat for Q7, Q10 and Q13: short quotations from these in-copyright texts are taken only from the study guides above and were not checked against the playscripts or novel.
+- Princess & The Hustler (Q6): Nick Hern Books study guide extract (Alicia Pope), https://www.nickhernbooks.co.uk/asset/12408?cmsAsset=1 and publisher page https://www.nickhernbooks.co.uk/princess-and-the-hustler
+- A Taste of Honey (Q11): National Theatre Background Pack, http://nt-itunesu.s3.amazonaws.com/TasteofHoney_Background_Final_lores.pdf and Royal Exchange Theatre resource pack, https://www.royalexchange.co.uk/wp-content/uploads/2024/04/A-Taste-Of-Honey-Resource-Pack-Final.pdf
+- Caveat for Q6 and Q11: quoted play lines are as printed in those resources; phrases the resources use in their own commentary are labelled as commentary in each answer; none was checked against the playscript.
