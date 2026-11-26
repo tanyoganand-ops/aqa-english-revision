@@ -1,0 +1,46 @@
+---
+title: "AQA GCSE English Literature 8702 Paper 2, June 2025: Q19 My Name Is Leon (Maureen), sample model answer"
+---
+
+## Source and status
+
+- Paper: AQA 8702/2 Modern texts and poetry, June 2025. Section A, Q19 My Name Is Leon: 30 marks (AO1 12, AO2 12, AO3 6) plus AO4 4 marks. The paper prints no extract for this question.
+- Question paper: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGuyz/3f417b090f10ffc94943d0ba2ec6450b5f06fb2b.pdf
+- Mark scheme: https://www.aqa.org.uk/files/2vT3LmcUzNO62qpl9JVdKx/49efd01e02032667f676ec38406415c17aaed3db.pdf
+- A sample option for one question, not a selected text and not a model for any other question.
+- Source basis, stated exactly: I did not have the novel. Plot, character and context claims come from two BBC Bitesize AQA revision pages: "Plot overview of 'My Name is Leon'" (https://www.bbc.co.uk/bitesize/articles/zfsgdnb) and "Characters in 'My Name is Leon'" (https://www.bbc.co.uk/bitesize/articles/zwwxfdm), both fetched on 26 November 2026. Authority level: BBC education pages written for students, not the author or publisher. They quote a few short passages from the novel (the Chapter Six description of Maureen's house, a line about Jake's adoption, and a line about the situation being "not fair at all"), which I use as printed there. Everything else in quotation marks is the BBC pages' own commentary and is labelled as such in the answer. I could not check any quotation against the novel and give no page numbers.
+- Level notes are my reading of the descriptors, not an examiner result. No mark is guaranteed.
+
+# Question 19 (30 marks + AO4 4 marks): My Name Is Leon
+
+**Question:** see the official paper (link above).
+
+**Mark scheme:** see the official mark scheme (link above). Its indicative content is a guide only.
+
+## Model answer
+
+De Waal presents Maureen as the person who makes safety, trust and a future possible for Leon. Before he meets her, the novel shows a boy who feeds his baby brother and runs out of money for food. With Maureen, he is cared for, and by the end she has adopted him. I will argue that her importance lies in three things: she meets his basic needs, she respects his love for Jake, and she stays the same when so much else in his life does not.
+
+The contrast with Leon's life before her shows why she matters. When their mother Carol becomes unwell, Leon takes on the care of Jake, feeding him and changing his nappies, and eventually asks a neighbour for a pound. De Waal captures his hunger in the line: "He can eat whatever he wants but if there's nothing in the fridge and nothing in the cupboard then it doesn't really count." The repetition of "nothing" stresses how bare the home is, and the sentence's flat tone makes it sound like a child's practical logic. When Leon and Jake are taken into foster care, Maureen's home is described as kind, caring, safe and clean, so the change is not only a change of address. It is a move from a home where Leon looks after everyone to one where an adult looks after him.
+
+Her first appearance in the novel is built from images of warmth and food. In Chapter Six Leon notices that "Maureen's house smells of sweets and toast" and that her "fuzzy red hairstyle looks like a flaming halo". She has "arms like a boxer" and a "massive belly like Father Christmas", and on her kitchen wall hangs a giant wooden spoon that says "Best Mum". BBC Bitesize's reading, which is commentary and not de Waal's own words, is that the smell of food suggests nourishment, the "flaming halo" suggests a protective angel, the boxer's arms suggest safety and the spoon suggests the love her own children have had for her. I think this is a fair reading, and I would add that the images come from a child's point of view. Leon describes her through food, warmth and strength because those are the things he has most needed, so the description tells us as much about his needs as about her.
+
+Maureen earns his trust over time. The Bitesize character page says that she works hard to win Leon's trust through love and care, that she is patient and listens, and that her rules and routines are clear and not up for negotiation. This combination matters because it shows that her kindness is not weak. It also says she uses honesty and humour, such as in a talk about whether Father Christmas exists, and that she does not patronise him. I use these points as the page's commentary on the novel, but the plot supports them: after Christmas she tells Leon that Jake might be adopted and does not hide it, and she reassures him that he will be staying with her. In a story full of adults who keep Leon in the dark, the fact that Maureen tells him the truth is part of why she is important.
+
+Her respect for Leon's bond with Jake is another sign. The Bitesize character page describes Maureen as outraged at the decision to split the brothers. It also prints two phrases as Maureen's own words to Leon: Jake is being adopted because he is "a baby, a white baby", and the situation is "not fair at all" for Leon. I read these as Maureen saying out loud what the system does not. She also, according to the character page, pursues a photo of Jake from his new parents with a relentless approach, and Leon later receives a letter and photograph from Jake's new family as a birthday present. I do not claim the novel says Maureen caused that gift. The point is that Leon's need to keep a link to his brother is taken seriously by her and so he is not asked to forget.
+
+The most striking sign of what Maureen means to Leon comes when she falls ill. Leon calls an ambulance in the middle of the night and the plot summary says this saves her life. The moment reverses the situation of the opening, in which Leon was the carer who could not get help. This time he gets it, and the person he saves is the person who has cared for him. The importance of Maureen is therefore two-way. She protects Leon, and he shows that he now wants to protect her. When he later overhears a half conversation and wrongly thinks that Maureen and Sylvia will move to the seaside without him, he runs away. The plot summary describes this as a misunderstanding, and the character page links it to his fear that Maureen plans to leave, which suggests how much she matters. A boy who has been abandoned once cannot easily trust that it will not happen again.
+
+The ending confirms her role. The Bitesize pages say that Maureen reveals she wants to adopt Leon, and that in the final chapters she has officially adopted him. The character page notes that, unlike most of the other characters, she does not change across the novel, and that her loving, caring attitude stays stable even when she has health problems. This steadiness is her main importance. Leon's mother, his brother and his hopes of reunion all change, but Maureen is the one fixed point. De Waal does not give Leon a reunion with Jake, and the novel ends with Leon thinking about Jake and planting seeds, but his future is held up by the person who adopts him.
+
+Context adds a limit to this reading. BBC Bitesize says that the novel was published in 2016 and set in 1980s Birmingham, around 1981, and that the author's mother fostered children and she herself worked as a family lawyer. It also stresses that the novel is fiction. I use this as one source's context and not as proof of what de Waal meant. It suggests that Maureen's role is realistic: a foster carer who gives a child the stability that the care system, with its decisions about adoption, cannot always give by itself.
+
+In conclusion, de Waal presents Maureen as important to Leon because she gives him food, safety, honesty and a home, because she respects his love for Jake and because she stays steady while everything else changes. Through his two-way bond with her, the novel suggests that being cared for is the first step in beginning to deal with loss.
+
+## Notes (my reading, not an examiner result)
+
+- AO1: the contrast with life before Maureen, her first description, her honesty, her stand on Jake's adoption, the ambulance, the misunderstanding about moving away, and her adoption of Leon. Each is tied to the BBC Bitesize plot or character page.
+- AO2: repetition of "nothing", the Chapter Six imagery seen through Leon's point of view, the reversal of the carer role, and the structure from neglect to adoption.
+- AO3: context (1980s Birmingham; the author's background; the novel as fiction) comes from BBC Bitesize only and is hedged. I do not claim AO3 is met by ideas alone.
+- AO4: aimed at accurate spelling, punctuation and varied vocabulary. Not scored.
+- Source limits: only the quoted passages BBC Bitesize prints from the novel are quoted as novel text. Everything that describes Maureen's qualities is the BBC pages' commentary and is attributed as such. Word count about 1,100. The two phrases "a baby, a white baby" and "not fair at all" are attributed to Maureen because the Bitesize character page prints them as her words; I do not state in which chapter she says them.
