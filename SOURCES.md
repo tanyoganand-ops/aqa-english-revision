@@ -173,3 +173,9 @@ These are links only. Nothing from them is copied.
 - Much Ado context: Gail Kern Paster, "A Modern Perspective", Folger Shakespeare Library: https://www.folger.edu/explore/shakespeares-works/much-ado-about-nothing/much-ado-about-nothing-a-modern-perspective/
 - Julius Caesar context: Bell Shakespeare, "Historical background": https://www.bellshakespeare.com.au/julius-caesar-historical-background
 - Great Expectations context: Jill Rappoport, "Wives and Sons: Coverture, Primogeniture, and Married Women's Property", BRANCH: https://branchcollective.org/?ps_articles=jill-rappoport-wives-and-sons-coverture-primogeniture-and-married-womens-property
+- Jane Eyre text: https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre
+- Jane Eyre context: British Library, "The figure of the governess" (Kathryn Hughes): https://www.britishlibrary.cn/en/articles/the-figure-of-the-governess/
+- Frankenstein text: https://standardebooks.org/ebooks/mary-shelley/frankenstein
+- Frankenstein context: British Library, "Mary Shelley, author of Frankenstein" (archived copy): https://web.archive.org/web/20200820123621/https:/www.bl.uk/people/mary-shelley
+- The Sign of Four text: https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four
+- The Sign of Four context: UNESCO World Heritage Centre tentative list, "Colonial Penal Settlement of Andaman Islands": https://whc.unesco.org/en/tentativelists/7023/
