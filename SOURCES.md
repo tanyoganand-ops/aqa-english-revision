@@ -179,3 +179,9 @@ These are links only. Nothing from them is copied.
 - Frankenstein context: British Library, "Mary Shelley, author of Frankenstein" (archived copy): https://web.archive.org/web/20200820123621/https:/www.bl.uk/people/mary-shelley
 - The Sign of Four text: https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four
 - The Sign of Four context: UNESCO World Heritage Centre tentative list, "Colonial Penal Settlement of Andaman Islands": https://whc.unesco.org/en/tentativelists/7023/
+- Animal Farm text: Project Gutenberg Australia, https://gutenberg.net.au/ebooks01/0100011.txt
+- Animal Farm context: The Orwell Foundation page on Animal Farm: https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/animal-farm/ and Robert Pearce, "Animal Farm and Soviet Satire", History Today, August 2005: https://www.historytoday.com/archive/feature/animal-farm-and-soviet-satire
+- Telling Tales anthology (both stories, as published by AQA): https://store.aqa.org.uk/resources/english/AQA-8702-TG-TALES.PDF
+- Odour of Chrysanthemums context: University of Nottingham, https://www.nottingham.ac.uk/manuscriptsandspecialcollections/learning/odour.aspx and http://odour.nottingham.ac.uk/about.asp
+- Lines Written in Early Spring text: Poetry Foundation, https://www.poetryfoundation.org/poems/51001/lines-written-in-early-spring
+- Q27 context: AQA teaching guide, "Worlds and lives poetry cluster": https://filestore.aqa.org.uk/resources/english/AQA-8702-WORLDS-AND-LIVES-POETRY-CLUSTER-TG.PDF
