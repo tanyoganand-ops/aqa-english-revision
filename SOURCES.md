@@ -185,3 +185,7 @@ These are links only. Nothing from them is copied.
 - Odour of Chrysanthemums context: University of Nottingham, https://www.nottingham.ac.uk/manuscriptsandspecialcollections/learning/odour.aspx and http://odour.nottingham.ac.uk/about.asp
 - Lines Written in Early Spring text: Poetry Foundation, https://www.poetryfoundation.org/poems/51001/lines-written-in-early-spring
 - Q27 context: AQA teaching guide, "Worlds and lives poetry cluster": https://filestore.aqa.org.uk/resources/english/AQA-8702-WORLDS-AND-LIVES-POETRY-CLUSTER-TG.PDF
+- Leave Taking (Q10): Nick Hern Books study guide extract (Armstrong and Wharton, 2024), https://www.nickhernbooks.co.uk/asset/10338?cmsAsset=1 and AQA companion guide https://filestore.aqa.org.uk/resources/english/AQA-8702-COMP-GUIDE-TEXTS-POETRY.PDF
+- DNA (Q7): Pearson Edexcel GCSE Drama "DNA Prescribed Text Guide", https://qualifications.pearson.com/content/dam/pdf/GCSE/Drama/2016/teaching-and-learning-materials/GCSE_Drama_Set_Text_Guide_DNA%20V2.pdf
+- Lord of the Flies (Q13): Faber abridged educational notes (Loxford School English Department), https://www.faber.co.uk/wp-content/uploads/2024/04/Lord-of-the-Flies-Abridged-Education-Edition-Study-Guide-1.pdf
+- Quotation caveat for Q7, Q10 and Q13: short quotations from these in-copyright texts are taken only from the study guides above and were not checked against the playscripts or novel.
