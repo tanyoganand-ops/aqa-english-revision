@@ -7,7 +7,7 @@ title: "AQA GCSE English Literature 8702 Paper 1, June 2025: A Christmas Carol Q
 - Paper: AQA 8702/1 Shakespeare and the 19th-century novel, June 2025. Section B, Q8 A Christmas Carol: 30 marks, no AO4 in Section B.
 - Question paper: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGuAQ/8751b63839666230833bae71b052dde9bb60f492.pdf
 - Mark scheme: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGrnK/2963f9403378e2816a2606a45366dde1934b9a69.pdf
-- A sample option for one question, not a record of a text anyone is studying.
+- A sample option for one question, not a selected text.
 - Quotations from the extract are from the public-domain text of the work. Other quotations were checked against the Standard Ebooks text of the novel (https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol). Editions differ in small words.
 - Original companion commentary, not examiner-marked. No mark is guaranteed.
 
