@@ -20,7 +20,7 @@ title: "AQA GCSE English Literature 8702 Paper 2, June 2025: sample model answer
 
 **Quotation source and limits:** the play is in copyright. Every reference below was checked against one full-text copy of a licensed US acting edition (Dramatists Play Service) found online, used for checking only. That copy is a scanned text with OCR errors and is not the UK Heinemann edition, so spelling and stage-direction wording may differ from the edition a student uses. Play references are to the act, with no quotation beyond single words.
 
-**Model answer**
+### Model answer
 
 In An Inspector Calls Priestley presents power as something people claim through money, class and public position, and then shows that power failing when it meets responsibility. The Birlings begin as the people who give orders. The Inspector arrives with no such status and takes control of the room, and by the end the play suggests that real power belongs to those who accept that people are bound to one another.
 
@@ -36,7 +36,7 @@ At the end, the family tries to take power back. Birling's response to the Inspe
 
 In conclusion, Priestley presents power as something the Birlings assume belongs to class and office, and shows it as empty when it is used against the powerless. The Inspector's real power is moral. He can make the family answer, and the play leaves the audience to ask who will.
 
-**Notes on the answer (my reading, not an examiner result)**
+### Notes on the answer (my reading, not an examiner result)
 
 - AO1: one argument (class power is exposed, moral responsibility replaces it) with the key figures covered: Birling, the Inspector's control, Gerald, Mrs Birling, Eva.
 - AO2: methods linked to quotations: the list of offices, the word "duty", the balanced sentence on responsibilities and privileges, the repeated class label, the two-answer question, the blunt imperative.
@@ -48,9 +48,9 @@ In conclusion, Priestley presents power as something the Birlings assume belongs
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Poem chosen for the comparison:** 'Before You Were Mine' by Carol Ann Duffy. This is a choice for the sample. The mark scheme names it as a possible comparison; any other poem from the cluster is valid.
+**Poem chosen for the comparison:** 'Before You Were Mine' by Carol Ann Duffy. This is a choice for the sample. Any other poem from the cluster would also be a valid choice.
 
-**Model answer**
+### Model answer
 
 Both poems present growing up as a change in how a child sees a parent. In 'Follower' Heaney admires his father and wants to become him, then watches the roles reverse. In 'Before You Were Mine' Duffy looks back at a mother who was young before she was a parent, and the speaker grows up by seeing her as a separate person. In both, the child's feelings are mixed with love, and in both time moves the relationship on.
 
@@ -72,7 +72,7 @@ Each poem also gives the parent a particular world. Heaney's boy learns by watch
 
 In conclusion, both poets present growing up as a loving but unequal relationship in which the child slowly sees the parent more fully. Heaney's feeling is admiration turning to protective sadness. Duffy's is delight in a mother's youth with a hint of loss. The comparison shows that growing up is not only leaving a parent behind, but also understanding who they were.
 
-**Notes on the answer (my reading, not an examiner result)**
+### Notes on the answer (my reading, not an examiner result)
 
 - Structure: the first two sections treat 'Follower' and 'Before You Were Mine' in turn, then the later sections compare them directly (the speakers' looking-back perspective, the ending, form). It is a block structure with a sustained comparison from the fifth section on, not a comparison in every paragraph. Quotations are short and exact.
 - AO2: methods named where they support a point: the two-word sentence at Follower line 5, "shadow", the repeated "stumbling", the single-word sentence "Marilyn", the named friends, the possessive "mine", regular stanzas with rhyme against long running lines.
@@ -83,15 +83,15 @@ In conclusion, both poets present growing up as a loving but unequal relationshi
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Hull presents home and family as something so full of shared life that it cannot be changed or cleared away. The table stands for the family, and the speakers' feelings about it are mixed: it is awkward, but they love it.
 
-The poem opens with a plan to sell the table (section 1 of the archive text), an intention that is soon dropped. The table is described as big where it stands, with edges that seem to elbow the household and corners that push people into corners, so it becomes a physical pressure. The repeated word "corners" plays on its two meanings, the table's corners and a person being cornered, so the first section already suggests that family life can feel crowded and hard to escape.
+The poem opens with a plan to sell the table (section 1 of the archive text). The phrase of intention announces an intention that is then dropped. The table is described as big where it stands, with edges that seem to elbow the household and corners that push people into corners, so it becomes a physical pressure. The repeated word "corners" plays on its two meanings, the table's corners and a person being cornered, so the first section already suggests that family life can feel crowded and hard to escape.
 
 Then the speakers change course (section 2). They had planned to rub down the surface. The things to be removed are damage, yet the phrase for the stains is almost gentle, because a stain is likened to a moon. The poet has made the marks beautiful. The burns, dents and stains are permanent, and they suggest that family life leaves lasting traces both good and bad. Even the stuck scrap of newsprint is a small record of a particular day. In the next section they say they have not even started cleaning the old table (section 3).
 
-The reason is given in the long list that follows (sections 4 and 5), built on the repeated "too". The first list is of things done on the table: babies changed, trumpets and spoons banged, whales and witches drawn. The word "too" normally complains, but here it works as the opposite: there is so much life that the speakers cannot bring themselves to undo it. The list moves from babies to children's noise and drawings, so it follows a family growing up. It then adds darker items: homework and grief are set next to laughter and candles burned low. "Grief" and "laughter" are placed together, and so the table holds the whole range of family life. The verb "dumped" is blunt, suggesting how trouble was simply put down on the nearest surface, and the burned-down candles suggest celebration and the passing of time.
+The reason is given in the long list that follows (sections 4 and 5), built on the repeated "too". The first list is of everyday family activities done on the table, from caring for babies to children's noise and drawing. The word "too" normally complains, but here it works as the opposite: there is so much life that the speakers cannot bring themselves to undo it. The list follows a family growing up. It then adds darker items: homework and grief are set next to laughter and candles burned low. "Grief" and "laughter" are placed together, and so the table holds the whole range of family life. The verb "dumped" is blunt, suggesting how trouble was simply put down on the nearest surface, and the burned-down candles suggest celebration and the passing of time.
 
 The plural "we" runs through the poem. No single person is named; the decisions and feelings are shared, so the home is presented as a joint life. It also makes the speakers' reluctance to act feel like agreement rather than argument.
 
@@ -99,9 +99,9 @@ The ending returns to the table's awkward shape (sections 5 and 6): it must stay
 
 In conclusion, Hull presents home and family as a mixture of joy and grief whose marks cannot and should not be removed, and the feeling that results is a rueful, loving acceptance.
 
-**Notes on the answer (my reading, not an examiner result)**
+### Notes on the answer (my reading, not an examiner result)
 
-- Covers the AO1 ideas of memories, a mixture of good and bad, and permanence in a developing argument about acceptance.
+- Covers memories, a mixture of good and bad, and permanence in a developing argument about acceptance.
 - AO2 points are tied to quotations: "corners", the moon-like stain, the burn and dent, the repeated "too" pattern, "grief" next to "laughter", the plural "we", first and last lines.
 - Not covered: tone beyond "rueful", line-length or stanza form, which the task does not require.
 
@@ -109,15 +109,15 @@ In conclusion, Hull presents home and family as a mixture of joy and grief whose
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
-Both poems make a single everyday thing carry feelings about home, but they use different voices and different tones. In 'Like a Beacon' the speaker craves her mother's food (lines 3 to 4), and the repeated statement of need (lines 8 to 9) is direct and personal. The singular "I" and the short, plain lines make the feeling clear and urgent. In 'Table' the pronoun is the plural "we", so the feeling belongs to a family, and the table is described over a long list of the repeated "too" (sections 4 and 5) that shows years of life.
+Both poems make a single everyday thing carry feelings about home, but they use different voices and different tones. In 'Like a Beacon' the speaker craves her mother's food (lines 3 to 4), and the repeated statement of need (lines 8 to 9) is direct and personal. The singular "I" and the short, plain lines make the feeling clear and urgent. In 'Table' the pronoun is the plural "we", so the feeling belongs to a family, and the table is described through a long list of marks and damage, and the repeated "too" (sections 4 and 5) shows years of shared life.
 
 Food and furniture are both symbols of home, but they work differently. Nichols's plantains and saltfish (lines 6 to 7) are specific, and food is a way of staying linked to her mother while she is far away, in London, and carrying it against the cold (line 13). The simile in the title, repeated at line 12, turns the bag of food into a signal light, so the feeling is hope and belonging. Hull's table is not something the speakers lack but something they cannot be rid of, as its edges keep elbowing them (section 6), so his feeling is mixed: the marks of burn and dent sit alongside laughter. Nichols's tone is unambiguous longing, Hull's is more complicated and accepting.
 
 The titles also differ. 'Beacon' looks outward, a light that guides across distance. 'Table' is a fixed object that stays where it is, in its awkward place, as home does.
 
-**Notes on the answer (my reading, not an examiner result)**
+### Notes on the answer (my reading, not an examiner result)
 
 - AO2 only: no context or theme-only marks are being earned, so the answer stays on methods (voice, simile, symbol, list, title, tone). It makes comparison in every paragraph.
 - Line numbers are the printed lines of the poems in the question paper. 'Table' is cited by section of the Children's Poetry Archive page, because it is not printed in the paper.
