@@ -17,7 +17,7 @@ title: "AQA GCSE English Literature 8702 Paper 1, June 2025: two sample model an
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Shakespeare presents parents and children as people who love each other and still cannot understand each other. Parents expect obedience and see their children as part of a family plan. The children turn elsewhere for help, and the result is tragic.
 
@@ -37,15 +37,15 @@ In conclusion, Shakespeare presents relationships between parents and children a
 
 - AO1 (12): a single argument runs through the answer: parental love turns into control and the children are left alone. The interpretation is supported by quotation and kept to the task, with a clear judgement about Capulet. Both parts of the task are covered: Capulet and Juliet in the extract, then parents and children across the play. References are short and fitted into the argument.
 - AO2 (12): methods are named only where they support a point: the list of times and places, the verbs in the threat, the contrast between the Act 1 and Act 3 Capulet, the balanced sentences of Lady Capulet, the "tears augmenting" image, and "sacrifices". Terminology is limited rather than piled up.
-- AO3 (6): patriarchal expectations, arranged marriage and obedience are linked to specific moments, as the mark scheme's AO3 content suggests, and the answer notes that the play itself tests those expectations (Capulet's Act 1 comment about consent). The feud is linked to the ending. No claim is made about how every audience reacts.
+- AO3 (6): patriarchal expectations, arranged marriage and obedience are linked to specific moments, and the answer notes that the play itself tests those expectations (Capulet's Act 1 comment about consent). The feud is linked to the ending. No claim is made about how every audience reacts.
 - AO4 (4): spelling, punctuation and sentence variety are controlled; no AO4 mark is guaranteed.
-- Limits: the answer is about 800 words. The time the exam allows may not fit this length, so treat it as a full model, not a timed target. The Friar is not discussed, which is allowed because the mark scheme lists points as examples only.
+- Limits: the answer is about 800 words. The time the exam allows may not fit this length, so treat it as a full model, not a timed target. The Friar is not discussed, which is acceptable because the mark scheme says its listed points are not a required list.
 
 # Question 7 (30 marks): The Strange Case of Dr Jekyll and Mr Hyde
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Stevenson presents hidden lives and secrets as a danger that damages friendship and in the end the self. In this extract, Utterson meets secrecy in other people, and the novel suggests that the Victorian habit of hiding things leads to a darker secret life.
 
@@ -62,6 +62,6 @@ Overall, Stevenson shows that secrets begin as ways of protecting reputation and
 **Commentary (my reading, not an examiner result)**
 
 - AO1 (12): the answer keeps to one line of argument (secrecy as protection, then isolation, then self-division) and covers both the extract and the whole novel. Quotations are short. The interpretation (secrecy starts as protection of reputation and ends as self-division) is the answer's own supported reading, built from the extract and the novel, which is what the AO1 descriptor on an informed response asks for.
-- AO2 (12): methods are analysed where useful: the adverbs and "cannot" in the letter, "slept" for the packet, the sentence that delays "it was disappearance", the door description, and the structure of documents. The mark scheme lists imagery of doors, the safe and sealed envelopes; points on "slept" and the delayed sentence are my analysis, not mark scheme content.
-- AO3 (6): Victorian respectability and the professional role of a lawyer are linked to specific details. Other contexts (such as Darwinism or the Gothic) are not used; the mark scheme says the relevant contexts depend on the task.
-- Limits: the novel quotations other than the extract come only from the chapters that could be checked (Story of the Door, Search for Mr Hyde, Dr Lanyon's Narrative, Henry Jekyll's Full Statement). The answer is about 650 words and is not a timed target. The Q7 indicative content above was read and the answer touches most of its AO1, AO2 and AO3 points; it touches darkness imagery ("dark way", "darkly mysterious") but does not discuss light, and it leaves out Carew and Hyde's name, which the mark scheme lists only as examples.
+- AO2 (12): methods are analysed where useful: the adverbs and "cannot" in the letter, "slept" for the packet, the sentence that delays "it was disappearance", the door description, and the structure of documents. These points are my own analysis.
+- AO3 (6): Victorian respectability and the professional role of a lawyer are linked to specific details. Other contexts (such as Darwinism or the Gothic) are not used; the mark scheme does not require any one context.
+- Limits: the novel quotations other than the extract come only from the chapters that could be checked (Story of the Door, Search for Mr Hyde, Dr Lanyon's Narrative, Henry Jekyll's Full Statement). The answer is about 650 words and is not a timed target. The answer uses darkness imagery ("dark way", "darkly mysterious") but does not discuss light, and it leaves out Carew and the significance of Hyde's name. That is a choice of focus, and the mark scheme does not make any single point mandatory.
