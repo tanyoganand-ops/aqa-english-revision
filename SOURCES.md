@@ -147,3 +147,16 @@ Links to AQA's own published files for GCSE English Language (8700) and English 
 | Examiners report: Paper 2 Modern texts and poetry - June 2024 - English | https://www.aqa.org.uk/files/sample-papers-and-mark-schemes.2024.June.AQA-87022-WRE-JUN24_PDF/e7d39333ee9cbf24e78c3112b7da0c376997c234.pdf |
 | Examiner report: Paper 1 Shakespeare and the 19th-century novel - June 2025 - English | https://www.aqa.org.uk/files/cRIpdimsSKiybuSFvQKGG0/3976f0473adcf2651657f956f5fac2f9aa574a96.pdf |
 | Examiner report: Paper 2 Modern texts and poetry - June 2025 - English | https://www.aqa.org.uk/files/cRIpdimsSKiybuSFvQKKsS/e5fd19f07aa4be3c7c84ee3edd7de7c199170ce8.pdf |
+
+## Context and text sources used by the Macbeth, A Christmas Carol and Q26 files
+
+These are links only. Nothing from them is copied.
+
+- Macbeth text: https://www.folgerdigitaltexts.org/download/txt/Mac.txt
+- Macbeth context: https://www.shakespearesglobe.com/discover/blogs-and-features/2014/11/05/the-gunpowder-plot-and-shakespeares-macbeth/
+- James I and divine right: https://assets.cambridge.org/97811075/31208/excerpt/9781107531208_excerpt.pdf
+- A Christmas Carol text: https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol
+- Carol context: https://web.archive.org/web/20210414114314/https:/www.bl.uk/romantics-and-victorians/articles/the-origins-of-a-christmas-carol
+- The Charge of the Light Brigade text: https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade
+- Charge context: https://www.historytoday.com/archive/publication-%E2%80%98-charge-light-brigade%E2%80%99
+- Owen context: https://www.bl.uk/stories/blogs/posts/wilfred-owen-the-poetry-is-in-the-pity , https://wilfredowen.org.uk/poetry/exposure , https://www.bbc.co.uk/bitesize/guides/zq6m2p3/revision/6
