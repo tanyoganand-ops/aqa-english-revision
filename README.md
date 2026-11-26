@@ -4,7 +4,7 @@ Original model answers and companion commentary for AQA GCSE English Language (8
 
 ## What is here
 
-- `models/`: thirty files. The 8702 Paper 2 files for Blood Brothers Q4, Anita and Me Q22 and Pigeon English Q23 are labelled "provisional study response" in their titles. They are not completed high-level models.
+- `models/`: thirty files (v11: Q4 and Q23 also revised, Q4 paraphrasing a free script sample with no verbatim lines; v10: Q19 and Q22 revised with short quotations from publisher or broadcaster chapter-one extracts, named in each file). The 8702 Paper 2 files for Blood Brothers Q4, Anita and Me Q22 and Pigeon English Q23 are labelled "provisional study response" in their titles. They are not completed high-level models.
   - 8700 Paper 1 and Paper 2, June 2025
   - 8700 Paper 1 and Paper 2, Sample Set 1 (first exam June 2026; a specimen, not a paper that has been sat)
   - 8702 Paper 1, June 2025: Romeo and Juliet Q2, Jekyll and Hyde Q7, Macbeth Q1, A Christmas Carol Q8, The Tempest Q3, The Merchant of Venice Q4, Pride and Prejudice Q12, Much Ado About Nothing Q5, Julius Caesar Q6, Great Expectations Q9, Jane Eyre Q10, Frankenstein Q11, The Sign of Four Q13
