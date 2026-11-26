@@ -160,3 +160,9 @@ These are links only. Nothing from them is copied.
 - The Charge of the Light Brigade text: https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade
 - Charge context: https://www.historytoday.com/archive/publication-%E2%80%98-charge-light-brigade%E2%80%99
 - Owen context: https://www.bl.uk/stories/blogs/posts/wilfred-owen-the-poetry-is-in-the-pity , https://wilfredowen.org.uk/poetry/exposure , https://www.bbc.co.uk/bitesize/guides/zq6m2p3/revision/6
+
+- The Tempest text: https://www.folgerdigitaltexts.org/download/txt/Tmp.txt
+- The Tempest context: https://www.rsc.org.uk/the-tempest/about-the-play/dates-and-sources , https://www.shakespearesglobe.com/learn/schools-and-teachers/secondary-schools/playing-shakespeare-with-deutsche-bank/the-tempest-playing-shakespeare/language-and-analysis/the-tempest-british-empire/
+- The Merchant of Venice text: https://www.folgerdigitaltexts.org/download/txt/MV.txt
+- Merchant context: https://www.folger.edu/blogs/shakespeare-and-beyond/usury-merchant-of-venice-london-triumph-stephen-alford/
+- Pride and Prejudice text: https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice
