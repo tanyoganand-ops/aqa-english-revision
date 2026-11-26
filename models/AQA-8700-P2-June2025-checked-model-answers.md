@@ -14,7 +14,7 @@ title: "AQA GCSE English Language 8700 Paper 2, June 2025: model answers checked
 - Marks: Q1 4, Q2 8, Q3 12, Q4 16, Q5 40 (24 AO5 + 16 AO6). Total 80.
 - AQA says its mark scheme content is a guide, not a model answer or a required list. The answers below are original practice answers, not examiner-marked. Comments on level are my own reading, not an AQA result, and do not promise any mark.
 - Every quotation was matched against the insert. Line numbers are those printed on the insert.
-- Format note: unlike June 2025 Paper 1, this Paper 2 Q1 is already a choose-the-true-statements format question.
+- Format note: unlike June 2025 Paper 1, this Paper 2 Q1 is already a a choose-the-true-statements format question.
 
 # Question 1 (4 marks, AO1), Source A lines 1 to 10
 
@@ -24,7 +24,7 @@ Short-answer retrieval question. The official question wording, statements and a
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 In Source A the peregrine falcon lives in a human-made habitat, the city. It sits on the roof of Tate Modern, and Moss explains that humans have put up tall buildings which serve just as well as the high cliffs peregrines need for nests and for watching their territory (lines 35 to 36). The city also gives the falcons food, a plentiful supply of birds to hunt (lines 37 to 38), and safety, because people now protect them. This habitat has changed, since peregrines used to be birds of remote, wild places (line 27), and the birds have adapted to it.
 
@@ -37,7 +37,7 @@ The main difference is that the falcon uses height, open space and human buildin
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Moss describes the peregrine as a powerful, precise hunter, and he does it through a run of violent images. The opening simile compares the falcon to a guided missile (line 13). The comparison suggests speed and aggression, and the adjective "guided" adds control, as if the attack has a purpose and cannot miss. The verb phrase that follows continues the military idea, and the falcon's fixed gaze on its prey (line 13) turns the pigeon into an object, which makes the falcon seem cold and focused.
 
@@ -52,7 +52,7 @@ The end of the paragraph changes the picture. The word "plunder" suggests a pira
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Both writers feel admiration and affection for the natural world, and both present humans as part of it, but they convey those feelings in different ways.
 
@@ -69,11 +69,11 @@ The methods differ as well. Moss uses present-tense action and dramatic similes 
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer (practice example)**
+### Model answer (practice example)
 
 **Give us a garden, not just a car park**
 
-Walk across our site at break and count how many people are looking at the sky. Almost nobody. We stare at phones, queue for the canteen or hurry between tarmac and concrete. I want to argue that this is a mistake, and that our school should give us proper outdoor spaces where students and staff can connect with nature.
+Walk across our site at break and count how many people are looking at the sky. Almost nobody. We stare at phones, queue for the canteen or hurry between tarmac and concrete. I want to argue that this is a mistake, and that our school should give us proper green areas where students and teachers can spend time with nature.
 
 The first reason is health. Many of us are tired and anxious, particularly during exam season, and many people find that time among plants and animals calms the mind. Even a few minutes of watching birds or touching soil can feel like a pause button, and a short walk under trees is a better reset than another screen. A garden would not be a luxury. It would be a free, daily form of wellbeing support.
 
