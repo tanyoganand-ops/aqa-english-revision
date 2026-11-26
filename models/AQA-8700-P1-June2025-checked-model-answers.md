@@ -24,7 +24,7 @@ Short-answer retrieval question. The official question wording, statements and a
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Wyndham opens the morning with a metaphor that turns the sky into dirty washing-up water and the clouds into untidy rags (line 9). The adjective "slatternly", which means dirty or untidy, and the domestic image of "dishwater" make the clouds look sodden and neglected. The participle "filtering" and the adverb "weakly" (line 10) suggest that even the light struggles to reach the village, so the reader senses that something is wrong before anything is explained.
 
@@ -38,7 +38,7 @@ Wyndham then builds a list that runs from people and livestock down to the small
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 Wyndham begins with a wide view. The official-sounding opening, with its precise time and the verb "episodic" (line 1), gives a detached, report-like tone, and then comes a list of vehicles that disappear one after another: the bus, the truck, the fire engine and the police car. The sequence creates a growing mystery because each rescuer vanishes in turn, and the ellipsis that ends the sentence about Constable Gobby (lines 7 to 8) leaves the reader waiting for an answer.
 
@@ -54,7 +54,7 @@ The final focus is on one driver, who collapses quietly (line 39). The sudden co
 
 Statement (Q4): the question gives a two-part statement about how mysterious the situation is and how clearly the writer shows that; see the official paper for its wording.
 
-**Model answer**
+### Model answer
 
 I agree strongly that the situation is mysterious, and partly that it is hard to understand: the writer shows the reader exactly what has happened to the vehicles but refuses to say why, and that gap is the source of the mystery.
 
@@ -72,7 +72,7 @@ Overall, I agree that the writer makes the mystery clear, because every detail p
 
 (The alternative, a description of a town or village from a picture, is not used here because the picture is not reproducible in this text.)
 
-**Model answer (559 words by count)**
+### Model answer (559 words by count)
 
 The first thing I noticed was that I had not been woken up.
 
