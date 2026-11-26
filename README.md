@@ -1,50 +1,23 @@
-# AQA GCSE English - Revision Resources (8700 / 8702)
+# GCSE English (AQA) practice model answers
 
-Original revision resources for AQA GCSE English Language (8700) and English
-Literature (8702), plus links to AQA's official materials.
+Original model answers and companion commentary for AQA GCSE English Language (8700) and English Literature (8702). Each file has a full original answer plus the author's own notes. They are not examiner-marked, and no mark is guaranteed. Comments on level are the author's own reading, not an AQA result. The question wording is not reproduced: read each answer next to the official paper, linked in SOURCES.md.
 
-## What is in this repository
+## What is here
 
-- `models/`: six sets of original model answers, written by the author and
-  checked against the official mark schemes:
+- `models/`: nine files, each with full original model answers and commentary.
   - 8700 Paper 1 and Paper 2, June 2025
-  - 8700 Paper 1 and Paper 2, Sample Set 1 (first exam June 2026; a specimen,
-    not a paper that has been sat)
-  - 8702 Paper 1, June 2025: Romeo and Juliet Q2, Jekyll and Hyde Q7
-  - 8702 Paper 2, June 2025: An Inspector Calls Q2, poetry Q25, Q28.1, Q28.2
-- `SOURCES.md`: an index of links to AQA's own question papers, inserts and
-  mark schemes, so each model can be read next to the official question.
-- `OFFICIAL-RESOURCES.md`: a short guide to AQA's official pages.
+  - 8700 Paper 1 and Paper 2, Sample Set 1 (first exam June 2026; a specimen, not a paper that has been sat)
+  - 8702 Paper 1, June 2025: Romeo and Juliet Q2, Jekyll and Hyde Q7, Macbeth Q1, A Christmas Carol Q8
+  - 8702 Paper 2, June 2025: An Inspector Calls Q2, poetry Q25, Q26 ('Exposure' with 'The Charge of the Light Brigade'), Q28.1 and Q28.2
+- `SOURCES.md`: links to AQA's own question papers, inserts and mark schemes. Use them to read the questions.
 
-These are companion commentary and practice writing, not self-contained
-models: each answer refers to its question by series, paper and question
-number, and the question wording itself is not reproduced, so open the linked
-official paper alongside. The full self-contained models are kept privately.
-The Literature files cover six questions from the June 2025 papers (two on
-Paper 1, four on Paper 2); they do not cover every set text or topic.
+## What is not here
 
-## What is not in this repository, and why
-
-AQA question papers, mark schemes and inserts are published by AQA and are not
-redistributed here; download them from AQA using the links in SOURCES.md and
-OFFICIAL-RESOURCES.md. The source extracts and poems set in the papers are by
-various authors: some are old enough to be out of copyright, others are modern
-works still in copyright. No extended extracts from modern works and no copied
-exam questions appear here; the analysis quotes individual words from modern
-texts where they are the point being discussed, and quotes out-of-copyright
-texts more freely. Compiled question banks and notes that embed exam question
-wording or extract text are not published here.
+AQA question papers, inserts and mark schemes are AQA's material, and many extracts and poems are still in copyright. None of them are in this repo. Each model refers to the question by series, paper and number, so open the linked AQA file to see the wording.
 
 ## Limits
 
-- The answers are original writing. They are not examiner-marked, and any
-  level notes or scores are the author's own reading of the mark scheme
-  descriptors: estimates, not official grades. No mark is guaranteed.
-- Sample Set 1 is a specimen for the 2026 format, not a real series.
-- The answers are practice examples for study, not timed targets; some are
-  longer than exam time allows.
-
-## Official AQA pages
-
-- GCSE English Language (8700): https://www.aqa.org.uk/subjects/english/gcse/english-language-8700
-- GCSE English Literature (8702): https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702
+- Literature answers are sample options, not selected texts.
+- Quotations: modern copyrighted texts are not quoted beyond single words. Where the analysis points to a phrase, it gives a paraphrase and a location: "line N" is the printed line number of the AQA insert, poem line numbers are the printed lines in the question paper, the play is cited by act, and 'Table' by section of the Children's Poetry Archive page. Public-domain texts (Shakespeare, Stevenson, Jefferies, Kemble, Dickens, Owen, Tennyson) are quoted with attribution. Each file's own creative writing is original.
+- Coverage is sampled: 9 Literature questions, and the Language papers listed above. This is not a full set of answers for every past paper.
+- Not affiliated with or endorsed by AQA.
