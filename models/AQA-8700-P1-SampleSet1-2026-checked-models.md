@@ -13,6 +13,10 @@ title: "AQA GCSE English Language 8700 Paper 1, Sample set 1 (first exam 2026): 
 - AQA says its mark scheme content is a guide, not a model answer or a required list. Level notes below are my reading of the descriptors, not an examiner result, and no mark is guaranteed.
 - These are teaching models. Some are longer than a candidate could write in the time.
 
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
 # Question 1 (4 marks): multiple choice
 
 Short-answer retrieval question. The official question wording, statements and answer key are not reproduced here; see the official paper and mark scheme linked above. No model text is needed beyond the answer key.
@@ -21,7 +25,7 @@ Short-answer retrieval question. The official question wording, statements and a
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 The writer describes the hyena as a creature that looks wrong in every detail, and the narrator's tone makes the description both comic and uneasy.
 
@@ -33,7 +37,7 @@ Pi's wit shows in the humour. The head is likened to a bear's, with a receding h
 
 The sentence forms change the pace. After longer, detailed sentences, short flat ones follow about the nostrils (line 17) and the tail (lines 17 to 18). These read like a list of faults being ticked off. The negative "unwagging" lacks the friendliness of a dog's tail, and the paragraph closes by calling the hyena doglike but unlike any dog anyone would want (line 18). Everything about the hyena is almost familiar and wrong, and that gives the description its mixture of comedy and threat.
 
-**Notes (my reading, not an examiner result)**
+### Notes (my reading, not an examiner result)
 
 - Aim: effects of choices analysed, a range of detail, terminology used accurately (adjective, verb, simile, adverb, antithesis, declarative sentences). It stays inside lines 10 to 19 and on the hyena's appearance, as the task requires.
 - It does not cover every possible point; the content is a guide, not a checklist.
@@ -42,7 +46,7 @@ The sentence forms change the pace. After longer, detailed sentences, short flat
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 The writer builds tension by planting a fear in the first sentence, delaying the threat with description, making it appear suddenly, letting it escalate, and then releasing the tension in a way that changes how we read it.
 
@@ -54,7 +58,7 @@ The pivotal point comes when the hyena suddenly leaps over the zebra (lines 20 t
 
 The end changes the pattern. The hyena makes groans, vomits (lines 43 to 45), and stays in the restricted space (line 50). The threat falls away in an anti-climax. The tension is released, but it leaves an odd feeling, because the fear Pi has shown for so long now looks out of proportion to the animal's "anguish" (line 49). The writer ends not on danger but on the hyena's pitiful state, so the reader is left with a changed view of the creature, and with the question of what will come next on the boat.
 
-**Notes (my reading, not an examiner result)**
+### Notes (my reading, not an examiner result)
 
 - Covers these structural features: foreshadowing, exposition, shift of focus, pivotal point, motif, rising action, anti-climax, first-person perspective. It ties each to the effect on the reader.
 - Written for the 2026 sample wording (a tension focus). A response to the June 2025 interest focus would need a different focus word, though the same structural features would be relevant.
@@ -63,7 +67,7 @@ The end changes the pattern. The hyena makes groans, vomits (lines 43 to 45), an
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model answer**
+### Model answer
 
 I partly agree. The hyena behaves in ways that are comic, and the ending shows it is no danger to Pi. But the writer lets us feel Pi's fear for most of the extract, and I do not think the hyena is simply a joke. The comedy arrives late and changes the meaning of what came before.
 
@@ -75,7 +79,7 @@ The ending decides the question. The hyena groans, coughs and vomits (lines 43 t
 
 So the statement is right that the hyena does no harm in these lines and that its behaviour can be funny. It is incomplete in calling the hyena a threat of no importance at the time, because the writer places the reader in Pi's position, where the threat is felt until the very end. The extract works because the comedy and the fear are in tension with each other.
 
-**Notes (my reading, not an examiner result)**
+### Notes (my reading, not an examiner result)
 
 - Aim: it takes a clear position, uses both sides of the AO4 content, evaluates the effect on the reader, and ties points to quotations and methods (first-person perspective, repetition and onomatopoeia, verbs, anti-climax).
 - It stays within lines 20 to the end.
@@ -85,7 +89,7 @@ So the statement is right that the hyena does no harm in these lines and that it
 
 **Question:** see the official paper for the full wording (linked above).
 
-**Model piece (option 1, a description, about 350 words)**
+### Model piece (option 1, a description, about 350 words)
 
 Nobody tells you that a wildlife park wakes before you do. At six, the gates are still chained, but the air behind them is already moving: a low cough from the far paddock, a rattle of hooves, the slow percussion of something large shifting its weight.
 
@@ -99,7 +103,7 @@ By late afternoon the light slants gold through the netting of the aviary. The p
 
 When the gates close, the park lets out a long breath. The paths empty, the lamps come on in their small yellow circles, and from somewhere past the dark paddocks comes one slow, deep sound, rolling over the roofs and the fences and the sleeping town beyond, to remind everyone whose place this is.
 
-**Notes (my reading, not an examiner result)**
+### Notes (my reading, not an examiner result)
 
 - AO5: a clear structure (dawn, day, closing) with a return to the opening image, sensory detail, a controlled tone, and ideas about captivity and place. AO6: varied sentence lengths, accurate punctuation, and ambitious vocabulary that is meant to be used with control. I make no claim about marks.
 - Original text, written for this model. The picture option is not used.
