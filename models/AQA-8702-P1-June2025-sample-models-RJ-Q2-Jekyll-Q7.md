@@ -9,7 +9,7 @@ title: "AQA GCSE English Literature 8702 Paper 1, June 2025: two sample model an
 - Paper: AQA 8702/1 Shakespeare and the 19th-century novel, June 2025 (real series). Section A (Q1 to Q6): 30 marks + 4 marks AO4. Section B (Q7 to Q13): 30 marks, no AO4.
 - Question paper: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGuAQ/8751b63839666230833bae71b052dde9bb60f492.pdf
 - Mark scheme: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGrnK/2963f9403378e2816a2606a45366dde1934b9a69.pdf
-- These are two sample options from the option set (Q2 Romeo and Juliet, Q7 The Strange Case of Dr Jekyll and Mr Hyde). They are not a record of a text anyone is studying, and they are not a complete answer set for all 13 questions.
+- These are two sample options from the option set (Q2 Romeo and Juliet, Q7 The Strange Case of Dr Jekyll and Mr Hyde). They are sample options, not selected texts, and they are not a complete answer set for all 13 questions.
 - Each answer was written from the printed question and extract and checked against the mark scheme's indicative content and level descriptors. The mark scheme says indicative content is a guide, not a required list. The level notes are my reading of the descriptors, not an examiner result, and no mark is guaranteed.
 - Quotations from the printed extract are exact. Quotations from elsewhere in the play or novel were checked against the Folger Shakespeare Library text (https://www.folgerdigitaltexts.org/download/txt/Rom.txt) and the Wikisource text of the novel (https://en.wikisource.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde). Editions differ in small words, for example the printed extract says "And you be mine" where Folger prints "An you be mine". Where they differ, the paper's wording is used.
 
