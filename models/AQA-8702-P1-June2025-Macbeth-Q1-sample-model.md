@@ -7,7 +7,7 @@ title: "AQA GCSE English Literature 8702 Paper 1, June 2025: Macbeth Q1, sample 
 - Paper: AQA 8702/1 Shakespeare and the 19th-century novel, June 2025. Section A, Q1 Macbeth: 30 marks + 4 marks AO4.
 - Question paper: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGuAQ/8751b63839666230833bae71b052dde9bb60f492.pdf
 - Mark scheme: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGrnK/2963f9403378e2816a2606a45366dde1934b9a69.pdf
-- This is a sample option for one question, not a record of a text anyone is studying. It is not a model for the other 12 questions.
+- This is a sample option for one question, not a selected text. It is not a model for any other question.
 - Quotations from the extract are from the public-domain text of the work. Other quotations were checked against the Folger Shakespeare Library text of Macbeth (https://www.folgerdigitaltexts.org/download/txt/Mac.txt); editions differ in small spellings.
 - Original companion commentary, not examiner-marked. No mark is guaranteed.
 
