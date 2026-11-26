@@ -1,0 +1,38 @@
+---
+title: "AQA GCSE English Literature 8702 Paper 1, June 2025: A Christmas Carol Q8, sample model answer"
+---
+
+## Source and status
+
+- Paper: AQA 8702/1 Shakespeare and the 19th-century novel, June 2025. Section B, Q8 A Christmas Carol: 30 marks, no AO4 in Section B.
+- Question paper: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGuAQ/8751b63839666230833bae71b052dde9bb60f492.pdf
+- Mark scheme: https://www.aqa.org.uk/files/fHDU1dLPgDwvQhfFoLGrnK/2963f9403378e2816a2606a45366dde1934b9a69.pdf
+- A sample option for one question, not a record of a text anyone is studying.
+- Quotations from the extract are from the public-domain text of the work. Other quotations were checked against the Standard Ebooks text of the novel (https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol). Editions differ in small words.
+- Original companion commentary, not examiner-marked. No mark is guaranteed.
+
+# Question 8 (30 marks): A Christmas Carol
+
+**Question:** A Christmas Carol, Question 8 (Section B). See the official paper (linked above) for the full wording.
+
+### Model answer
+
+Dickens presents kindness as the thing that makes people rich, whatever they own, and as a duty that the powerful cannot ignore. In the extract the poorest family in the story is the kindest, and Scrooge learns that his own words have been unkind.
+
+The Cratchits have almost nothing, and the description makes that clear and then turns it into a virtue. Their glasses are "Two tumblers, and a custard-cup without a handle", but they hold the hot drink "as well as golden goblets would have done". The comparison to gold suggests that what matters is the sharing, not the container. Bob "served it out with beaming looks", and the fire that "sputtered and cracked noisily" gives the scene warmth and noise, which contrasts with Scrooge's cold, silent counting-house. The family "drew round the hearth", and Bob's joke that a half circle is "a circle" shows how they make the best of their lack. The repeated blessing, "God bless us!" and then "God bless us every one!", spreads from Bob to the whole family and finally to Tiny Tim, "the last of all". The word "every" includes everyone, even the man who will not give them a fair wage. Tiny Tim's closeness to his father, and the "withered little hand" in Bob's, make kindness something physical: love is a hand held tight because the family fears loss.
+
+Scrooge, watching, begins to feel it. He speaks "with an interest he had never felt before", and asks whether Tiny Tim will live. The Ghost answers with a "vacant seat" and "a crutch without an owner, carefully preserved". The crutch is a small object that stands for a missing child, and "carefully preserved" shows the family's loving memory before the death has even happened. Then Dickens turns Scrooge's own earlier words on him. In Stave 1 Scrooge said of the poor that "they had better do it, and decrease the surplus population", and the Ghost repeats the phrase back. The echo makes the cruelty clear: in the extract the "surplus population" is a boy Scrooge can see. The phrase had a real source. In the 1840s, a period of widespread distress sometimes called the "hungry forties", fears about over-population were influenced by Malthus, who argued that numbers would have to be checked by famine, war or disease. Scrooge's questions to the charity collectors about prisons and "the Union workhouses" repeat the harsh thinking of the age. Dickens uses the Ghost to turn that theory into a face, and the point of the scene is that kindness answers a theory that treats people as numbers. The Ghost's reply uses the image of "the insect on the leaf pronouncing on the too much life among his hungry brothers in the dust". The metaphor makes Scrooge small, a creature judging others from a leaf, and the word "brothers" makes the poor his relatives. Scrooge "hung his head" and is "overcome with penitence and grief", and for the first time his reaction is to feel, not to calculate. The reader sees kindness begin as shame.
+
+The wider novel shows that kindness is both a private virtue and a public duty. Marley's ghost, chained for his selfishness, cries that "Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence were, all, my business". The list of virtues is the reverse of Scrooge's earlier description as "Hard and sharp as flint, from which no steel had ever struck out generous fire". Dickens makes the point that kindness is not an optional extra to a working life. The Ghost of Christmas Past shows a different employer, Fezziwig, whom Scrooge himself praises for having the power "to render us happy or unhappy; to make our service light or burdensome". Scrooge, watching, sees that a boss can be generous at a small cost. His nephew Fred defends Christmas as "a kind, forgiving, charitable, pleasant time", showing that kindness is also a habit of forgiving people, even Scrooge.
+
+The two children Ignorance and Want, "This boy is Ignorance. This girl is Want", are the social side of the lesson. Dickens had spoken in 1843 about the children he had seen in London's jails and doss-houses and about the need to educate the poor, and he supported ragged schools, so the allegory makes kindness a public matter: neglect of the poor child will produce suffering for everyone, and the warning is aimed at the prosperous readers who can help. After this Scrooge's change is shown through action: he sends a prize turkey, he gives Bob a raise ("I'll raise your salary, and endeavour to assist your struggling family"), and he becomes "a second father" to Tiny Tim, "who did not die". The final verdict is that "he knew how to keep Christmas well", and Dickens turns this into a wish for his readers.
+
+In short, Dickens presents kindness as practical, shared and necessary. The Cratchits show how much kindness can do with little, Scrooge shows how its absence harms others and himself, and the ending shows that a person can learn it in time.
+
+### Notes (my reading, not an examiner result)
+
+- AO1: one argument (kindness as sharing, then as public duty, then as learned action) and it uses the extract and the whole novel. The Cratchits, Tiny Tim, the Ghost, Fezziwig and the change in Scrooge are all covered.
+- AO2: "golden goblets", the fire, the repeated blessing, "withered little hand", the crutch, the echo of "surplus population" and the insect metaphor are analysed. I did not name a technique by label every time; a label is a tool, not a requirement.
+- AO3: the context is used to explain two things in the text (the "surplus population" echo and Ignorance and Want), not as a block of history. It is tied to Malthusian ideas, the 1840s distress, and Dickens's concern for poor children. The mark scheme says examiners reward any valid interpretation and that indicative content is only some of what answers might include, so no topic is required. This answer does not explore Christian values or the meaning of Christmas; that is a choice of focus, not a gap a checklist would penalise.
+- Context source: John Sutherland, "The origins of A Christmas Carol", British Library, Discovering Literature (archived copy: https://web.archive.org/web/20210414114314/https:/www.bl.uk/romantics-and-victorians/articles/the-origins-of-a-christmas-carol). The 1843 speech and ragged schools details come from that article. I did not check the article's claims against a second source.
+- Limits: the prize turkey in Stave 5 is mentioned but not quoted. The "raise your salary" line is Scrooge's in Stave 5. About 840 words, longer than a timed answer.
