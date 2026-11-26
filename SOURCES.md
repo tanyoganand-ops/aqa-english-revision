@@ -166,3 +166,10 @@ These are links only. Nothing from them is copied.
 - The Merchant of Venice text: https://www.folgerdigitaltexts.org/download/txt/MV.txt
 - Merchant context: https://www.folger.edu/blogs/shakespeare-and-beyond/usury-merchant-of-venice-london-triumph-stephen-alford/
 - Pride and Prejudice text: https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice
+
+- Much Ado About Nothing text: https://www.folgerdigitaltexts.org/download/txt/Ado.txt
+- Julius Caesar text: https://www.folgerdigitaltexts.org/download/txt/JC.txt
+- Great Expectations text: https://standardebooks.org/ebooks/charles-dickens/great-expectations
+- Much Ado context: Gail Kern Paster, "A Modern Perspective", Folger Shakespeare Library: https://www.folger.edu/explore/shakespeares-works/much-ado-about-nothing/much-ado-about-nothing-a-modern-perspective/
+- Julius Caesar context: Bell Shakespeare, "Historical background": https://www.bellshakespeare.com.au/julius-caesar-historical-background
+- Great Expectations context: Jill Rappoport, "Wives and Sons: Coverture, Primogeniture, and Married Women's Property", BRANCH: https://branchcollective.org/?ps_articles=jill-rappoport-wives-and-sons-coverture-primogeniture-and-married-womens-property
